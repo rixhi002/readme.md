@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rishiraj Saha</h1>
-<p align ="left">
-- 🔭 **I’m currently working on** [Uber Data Analysis](https://github.com/rixhi002/Uber_data_analysis)
+- 🔭 I’m currently working on [Uber Data Analysis](https://github.com/rixhi002/Uber_data_analysis)
 - 🌱 **I’m currently learning** Data pipelining using Mage.ai
 - 📫 **How to reach me** rishirajsaha16@gmail.com
 - 📄 **Know about my experiences** [My Resume](https://drive.google.com/file/d/1a1_28Z8nLyi7X9XhHfN6vR0qiOk3PZpu/view?usp=sharing)
 - ⚡ **Fun fact GitHub's mascot is an adorable character known as Octocat. This character, a playful blend of an octopus and a cat, features a cat-like face atop an octopus body. Octocat was crafted by GitHub employee Simon Oxley in 2007. Its name is derived from "octo" representing octopus and "cat" referring to, well, a cat! Octocat has emerged as a beloved symbol of GitHub and is prominently showcased across GitHub-related merchandise and promotional content.**
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rishiraj-saha-a909ab227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishiraj-saha-a909ab227/" height="30" width="40" /></a>
