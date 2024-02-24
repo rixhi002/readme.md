@@ -1,8 +1,9 @@
 # 💫 About Me:
+-📄 **I’m currently working on** Uber Data  Project using Compute Engine,BigQuery,Mage.ai,LookerStudio,GCP <br>
 -🌱 **I’m currently learning** Data pipelining using Mage.ai <br>
--📫**How to reach me** rishirajsaha16@gmail.com <br>
+-📫 **How to reach me** rishirajsaha16@gmail.com <br>
 -📄 **Know about my experiences** [My Resume](https://drive.google.com/file/d/1a1_28Z8nLyi7X9XhHfN6vR0qiOk3PZpu/view?usp=sharing) 
-<br>
+<br><br>
 -⚡ **Fun fact GitHub's mascot is an adorable character known as Octocat. This character, a playful blend of an octopus and a cat, features a cat-like face atop an octopus body. Octocat was crafted by GitHub employee Simon Oxley in 2007. Its name is derived from "octo" representing octopus and "cat" referring to, well, a cat! Octocat has emerged as a beloved symbol of GitHub and is prominently showcased across GitHub-related merchandise and promotional content.**
 
 
