@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishiraj Saha</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rixhi002&label=Profile%20views&color=0e75b6&style=flat" alt="rixhi002" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=rixhi002&label=Profile%20views&color=0e75b6&style=flat" alt="rixhi002" /> </p>
 
 - 🔭 I’m currently working on [Uber Data Analysis](https://github.com/rixhi002/Uber_data_analysis)
 
