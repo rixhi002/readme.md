@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishiraj Saha</h1>
-<p align ="center">
+<p align ="auto">
 - 🔭 **I’m currently working on** [Uber Data Analysis](https://github.com/rixhi002/Uber_data_analysis)
 - 🌱 **I’m currently learning** Data pipelining using Mage.ai
 - 📫 **How to reach me** rishirajsaha16@gmail.com
