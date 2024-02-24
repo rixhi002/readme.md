@@ -10,6 +10,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishiraj-saha-a909ab227/) 
 [![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?logo=dribbble&logoColor=white)](https://dribbble.com/_rixhi_)
+[![Trailblazer](https://img.shields.io/badge/Trailblazer-%2300AEEF.svg?logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/t99gpbzyh7qm74nk5n)
 
 
 # 💻 Tech Stack:
