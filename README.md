@@ -20,6 +20,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=rixhi002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rixhi002&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rixhi002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Badges
+![Data_Visualization_Using_Python](https://github.com/rixhi002/rixhi002/assets/94241513/6c2e4bb2-21b4-4dff-a250-9c0e4df840da)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
