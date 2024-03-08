@@ -21,8 +21,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rixhi002&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rixhi002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img width="100" alt="google analytics certified badge" src="https://github.com/rixhi002/rixhi002/assets/94241513/6acc4008-3d85-4d03-a8fd-93f9ed6b55fe">
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
